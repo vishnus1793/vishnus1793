@@ -65,6 +65,7 @@
 </p>
 
 ---
+<img src="https://raw.githubusercontent.com/Rithik20041/Rithik20041/output/snake.svg" alt="Snake animation" />
 
 ## 📊 GitHub Stats
 <p align="center">
