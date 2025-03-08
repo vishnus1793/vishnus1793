@@ -24,6 +24,9 @@
   <a href="https://www.leetcode.com/vishnu1793" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
+  <a href="https://signal.me/#eu/Pjsj-DYDMmFZBKgu2O8FIl3dKtsVVuXeb2HHI2DFN4S931ZTjipOLaa9TIcSwDeX" target="blank">
+    <img src="https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white" alt="Signal" />
+  </a>
 </p>
 
 ---
