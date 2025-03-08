@@ -83,4 +83,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnus1793&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
+## Leetcode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/vishnu1793" target="_blank">
+    <img title="LeetCode Stats" alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/vishnu1793?ext=heatmap" />
+  </a>
+</p>
+
+<div align="center">
