@@ -101,6 +101,23 @@ Grinding code, solving problems, and building cool stuff!
 
 <div align="center">
   
-## Spotify
+## 🎵 Spotify & Anime Portfolio 🎴
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31n3twwswu6rnlsqw74ptht4445y&cover_image=false&theme=default&show_offline=false&background_color=62a0ea&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31n3twwswu6rnlsqw74ptht4445y&redirect=true)
+<table>
+  <tr>
+    <td align="left" width="50%">
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31n3twwswu6rnlsqw74ptht4445y&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31n3twwswu6rnlsqw74ptht4445y&cover_image=false&theme=default&show_offline=false&background_color=62a0ea&interchange=false" alt="Spotify Now Playing">
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h2>🎌 My Anime Portfolio</h2>
+      <a href="https://animesite-zeta.vercel.app/">
+        <img src="https://i.imgur.com/YOUR_SCREENSHOT.png" alt="Anime Portfolio Preview" width="400">
+      </a>
+      <br>
+      <a href="https://animesite-zeta.vercel.app/">👉 Visit My Anime Portfolio</a>
+    </td>
+  </tr>
+</table>
+
