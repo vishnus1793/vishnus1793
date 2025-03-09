@@ -96,3 +96,7 @@
 </p>
 
 <div align="center">
+  
+## Spotify
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31n3twwswu6rnlsqw74ptht4445y&cover_image=false&theme=default&show_offline=false&background_color=62a0ea&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31n3twwswu6rnlsqw74ptht4445y&redirect=true)
