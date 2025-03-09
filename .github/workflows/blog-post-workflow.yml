@@ -1,0 +1,20 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour, on the hour
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull in Dev.to posts
+        uses: vishnus1793/blog-post-workflow@v1
+        with:
+          feed_list: "https://dev.to/feed/vishnus1793"
