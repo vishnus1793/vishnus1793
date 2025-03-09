@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vishnu</h1>
+<h1 align="center">Hi 👋, I'm Vishnu</h1> 
 <h3 align="center">Passionate Curiosity-Driven Learner</h3>
 
 <p align="center">
@@ -100,6 +100,8 @@ Grinding code, solving problems, and building cool stuff!
 </p>
 
 <div align="center">
+  
+![Vishnu's Profile View Count](https://komarev.com/ghpvc/?username=vishnus1793&color=green)
   
 ## 🎵 Spotify & 🎴 Explore My Journey of Anime 🎌
 
