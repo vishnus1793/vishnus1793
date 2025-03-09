@@ -121,3 +121,6 @@ Grinding code, solving problems, and building cool stuff!
   </tr>
 </table>
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
