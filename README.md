@@ -73,6 +73,10 @@
 
 </p>
 
+## Flexing as a Programmer 🚀  
+Grinding code, solving problems, and building cool stuff!  
+
+
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vishnus1793&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- <img src="https://raw.githubusercontent.com/Rithik20041/Rithik20041/output/snake.svg" alt="Snake animation" /> -->
 
