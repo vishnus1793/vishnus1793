@@ -81,15 +81,19 @@ Grinding code, solving problems, and building cool stuff!
 <!-- <img src="https://raw.githubusercontent.com/Rithik20041/Rithik20041/output/snake.svg" alt="Snake animation" /> -->
 
 ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vishnus1793&color=green" alt="Vishnu's Profile View Count">
+</p>
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vishnus1793&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnus1793&theme=radical" alt="GitHub Streak" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnus1793&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+
+
+
 
 ## Leetcode Stats
 
@@ -101,7 +105,7 @@ Grinding code, solving problems, and building cool stuff!
 
 <div align="center">
   
-![Vishnu's Profile View Count](https://komarev.com/ghpvc/?username=vishnus1793&color=green)
+
   
 ## 🎵 Spotify & 🎴 Explore My Journey of Anime 🎌
 
