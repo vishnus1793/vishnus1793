@@ -101,7 +101,7 @@ Grinding code, solving problems, and building cool stuff!
 
 <div align="center">
   
-## 🎵 Spotify & Anime Portfolio 🎴
+## 🎵 Spotify & 🎴 Explore My Journey of Anime 🎌
 
 <table>
   <tr>
@@ -111,12 +111,12 @@ Grinding code, solving problems, and building cool stuff!
       </a>
     </td>
     <td align="center" width="50%">
-      <h2>🎌 My Anime Portfolio</h2>
+      <h2>🎴 Explore My Journey of Anime 🎌</h2>
       <a href="https://animesite-zeta.vercel.app/">
-        <img src="https://i.imgur.com/YOUR_SCREENSHOT.png" alt="Anime Portfolio Preview" width="400">
+        <img src="https://raw.githubusercontent.com/vishnus1793/Wallpapers/main/SoloLeveling%20Game.gif" alt="Anime Portfolio Preview" width="400">
       </a>
       <br>
-      <a href="https://animesite-zeta.vercel.app/">👉 Visit My Anime Portfolio</a>
+      <a href="https://animesite-zeta.vercel.app/">👉 Dive Into My Anime World</a>
     </td>
   </tr>
 </table>
