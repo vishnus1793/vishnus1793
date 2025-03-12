@@ -42,7 +42,7 @@
 
 ### 🌐 Frontend Development  
 <p>  
-  <a href="https://react.dev/docs/getting-started"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>  
+  <a href="https://react.dev/learn"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>  
   <a href="https://help.figma.com/hc/en-us"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a>  
 </p>  
 
