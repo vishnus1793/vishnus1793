@@ -64,7 +64,7 @@
 <p>  
   <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>  
   <a href="https://pytorch.org/docs/stable/index.html"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>  
-  <a href="https://scikit-learn.org/stable/documentation.html"><img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>  
+    <a href="https://scikit-learn.org/stable/index.html"><img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>  
 </p> 
 
 ### 🔑 Tools 
