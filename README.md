@@ -122,7 +122,7 @@ Grinding code, solving problems, and building cool stuff!
         <img src="https://raw.githubusercontent.com/vishnus1793/Wallpapers/main/SoloLeveling%20Game.gif" alt="Anime Portfolio Preview" width="400">
       </a>
       <br>
-      <a href="https://animesite-zeta.vercel.app/">👉 Dive Into My Anime World</a>
+      <a href="https://animesite-zeta.vercel.app/">👉 Dive Into My Anime World </a>
     </td>
   </tr>
 </table>
