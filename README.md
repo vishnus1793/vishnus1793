@@ -106,24 +106,28 @@ Grinding code, solving problems, and building cool stuff!
 <div align="center">
   
 
-  
-## 🎵 Spotify & 🎴 Explore My Journey of Anime 🎌
+## 🎵 Spotify & 🎴 Explore My Journey of Anime 🎌  
+
+<div align="center" style="border: 2px solid #62a0ea; border-radius: 10px; padding: 10px; background-color: #f8f9fa; width: 90%; max-width: 800px;">
 
 <table>
   <tr>
-    <td align="left" width="50%">
+    <td align="center" width="50%">
       <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31n3twwswu6rnlsqw74ptht4445y&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31n3twwswu6rnlsqw74ptht4445y&cover_image=false&theme=default&show_offline=false&background_color=62a0ea&interchange=false" alt="Spotify Now Playing">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31n3twwswu6rnlsqw74ptht4445y&cover_image=false&theme=default&show_offline=false&background_color=62a0ea&interchange=false" alt="Spotify Now Playing" style="border-radius: 8px;">
       </a>
     </td>
     <td align="center" width="50%">
-      <h2>🎴 Explore My Journey of Anime 🎌</h2>
+      <h2 style="color: #62a0ea;">🎴 Explore My Journey of Anime 🎌</h2>
       <a href="https://animesite-zeta.vercel.app/">
-        <img src="https://raw.githubusercontent.com/vishnus1793/Wallpapers/main/SoloLeveling%20Game.gif" alt="Anime Portfolio Preview" width="400">
+        <img src="https://raw.githubusercontent.com/vishnus1793/Wallpapers/main/SoloLeveling%20Game.gif" alt="Anime Portfolio Preview" width="90%" style="border-radius: 8px;">
       </a>
       <br>
-      <a href="https://animesite-zeta.vercel.app/">👉 Dive Into My Anime World </a>
+      <a href="https://animesite-zeta.vercel.app/" style="font-weight: bold; font-size: 16px; text-decoration: none; color: #007bff;">👉 Dive Into My Anime World</a>
     </td>
   </tr>
 </table>
+
+</div>
+
 
