@@ -67,6 +67,14 @@
     <a href="https://scikit-learn.org/stable/index.html"><img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>  
 </p> 
 
+### 🚀 Hosting Platforms  
+<p>  
+  <a href="https://render.com/docs"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" /></a>  
+  <a href="https://vercel.com/docs"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>  
+  <a href="https://docs.streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /></a>  
+  <a href="https://localxpose.io/docs"><img src="https://img.shields.io/badge/LocalXpose-1D2D50?style=for-the-badge&logo=localxpose&logoColor=white" /></a>  
+</p>
+
 ### 🔑 Tools 
 <p><a href="https://bitwarden.com/">
   <img src="https://camo.githubusercontent.com/ff98cdc123c03716521aa80f6a8092a16e0596325b0dd1ad80547f9ccc45046a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f62697477617264656e2d2532333137354444432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d62697477617264656e266c6f676f436f6c6f723d7768697465" /></a>
