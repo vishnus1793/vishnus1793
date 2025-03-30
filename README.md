@@ -117,7 +117,6 @@ Grinding code, solving problems, and building cool stuff!
 ## 🎵 Spotify & 🎴 Explore My Journey of Anime 🎌  
 
 <div align="center" style="border: 2px solid #62a0ea; border-radius: 10px; padding: 10px; background-color: #f8f9fa; width: 90%; max-width: 800px;">
-
 <table>
   <tr>
     <td align="center" width="50%">
@@ -135,7 +134,6 @@ Grinding code, solving problems, and building cool stuff!
     </td>
   </tr>
 </table>
-
 </div>
 
 
