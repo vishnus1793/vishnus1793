@@ -101,8 +101,6 @@ Grinding code, solving problems, and building cool stuff!
 </p>
 
 
-
-
 ## Leetcode Stats
 
 <p align="center">
