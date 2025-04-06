@@ -119,10 +119,10 @@ Grinding code, solving problems, and building cool stuff!
   <tr>
     <td align="center" width="50%">
 <div style="text-align: center;">
-  <h2 style="color: #62a0ea; font-family: Arial, sans-serif;">🎧 Recently Played on Spotify 🎧</h2>
-  <a href="https://spotify-recently-played-readme.vercel.app/api?user=31n3twwswu6rnlsqw74ptht4445y">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31n3twwswu6rnlsqw74ptht4445y" 
-         alt="Spotify Recently Played" 
+  <h2 style="color: #62a0ea; font-family: Arial, sans-serif;">🔁 Last Played or Now Playing</h2>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31n3twwswu6rnlsqw74ptht4445y&redirect=true&show_offline=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31n3twwswu6rnlsqw74ptht4445y&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" 
+         alt="Spotify Activity" 
          style="border-radius: 12px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);">
   </a>
 </div>
@@ -138,4 +138,5 @@ Grinding code, solving problems, and building cool stuff!
   </tr>
 </table>
 </div>
+
 
