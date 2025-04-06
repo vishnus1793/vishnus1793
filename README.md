@@ -121,11 +121,9 @@ Grinding code, solving problems, and building cool stuff!
     <td align="center" width="50%">
 <div style="text-align: center;">
   <h2 style="color: #62a0ea; font-family: Arial, sans-serif;">🎧 My Spotify Picks 🎧</h2>
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31n3twwswu6rnlsqw74ptht4445y&redirect=true&show_offline=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31n3twwswu6rnlsqw74ptht4445y&cover_image=true&theme=novatorem&show_offline=true&background_color=1e1e2e&interchange=true" 
-         alt="Spotify Now Playing" 
-         style="border-radius: 12px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);">
-  </a>
+  
+ [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31n3twwswu6rnlsqw74ptht4445y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+ 
 </div>
     </td>
     <td align="center" width="50%">
@@ -139,5 +137,4 @@ Grinding code, solving problems, and building cool stuff!
   </tr>
 </table>
 </div>
-
 
