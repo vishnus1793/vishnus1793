@@ -114,35 +114,58 @@ Grinding code, solving problems, and building cool stuff!
 
   
 
-## 🎵 Spotify & 🎴 Explore My Journey of Anime 🎌  
+## 🎵 Spotify & 🎴 Anime Journey
 
-<div align="center" style="border: 2px solid #62a0ea; border-radius: 10px; padding: 10px; background-color: #f8f9fa; width: 90%; max-width: 800px;">
+<div align="center">
+
 <table>
-  <tr>
-    <td align="center" width="50%">
-<div style="text-align: center;">
-   <h2 style="color: #62a0ea; font-family: Arial, sans-serif;">🎧 My Spotify Picks 🎧</h2>
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31n3twwswu6rnlsqw74ptht4445y&redirect=true&show_offline=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31n3twwswu6rnlsqw74ptht4445y&cover_image=true&theme=novatorem&show_offline=true&background_color=1e1e2e&interchange=true" 
-         alt="Spotify Now Playing" 
-         style="border-radius: 12px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);">
-  </a> 
-  
-<!--  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31n3twwswu6rnlsqw74ptht4445y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) -->
+<tr>
 
+<!-- 🎧 LEFT SIDE: SPOTIFY -->
+<td align="center" width="50%">
 
-</div>
-    </td>
-    <td align="center" width="50%">
-      <h2 style="color: #62a0ea;">🎴 Explore My Journey of Anime 🎌</h2>
-      <a href="https://animesite-zeta.vercel.app/">
-        <img src="https://raw.githubusercontent.com/vishnus1793/Wallpapers/main/SoloLeveling%20Game.gif" alt="Anime Portfolio Preview" width="90%" style="border-radius: 8px;">
-      </a>
-      <br>
-      <a href="https://animesite-zeta.vercel.app/" style="font-weight: bold; font-size: 16px; text-decoration: none; color: #007bff;">👉 Dive Into My Anime World</a>
-    </td>
-  </tr>
+<h3>🎧 Now Playing</h3>
+
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31n3twwswu6rnlsqw74ptht4445y&redirect=true&show_offline=true">
+  <img 
+    src="https://spotify-github-profile.kittinanx.com/api/view?uid=31n3twwswu6rnlsqw74ptht4445y&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true"
+    width="200"
+    style="border-radius: 50%; border: 3px solid #1DB954;" />
+</a>
+
+<br><br>
+
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31n3twwswu6rnlsqw74ptht4445y&redirect=true&show_offline=true">
+  <img src="https://img.shields.io/badge/Open%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+</a>
+
+<p><sub>Live Spotify • Works Offline</sub></p>
+
+</td>
+
+<!-- 🎴 RIGHT SIDE: ANIME -->
+<td align="center" width="50%">
+
+<h3>🎴 Anime World</h3>
+
+<a href="https://animesite-zeta.vercel.app/">
+  <img 
+    src="https://raw.githubusercontent.com/vishnus1793/Wallpapers/main/SoloLeveling%20Game.gif"
+    width="90%"
+    style="border-radius: 10px;" />
+</a>
+
+<br><br>
+
+<a href="https://animesite-zeta.vercel.app/">
+  <img src="https://img.shields.io/badge/Explore%20Anime%20World-ff69b4?style=for-the-badge"/>
+</a>
+
+<p><sub>My curated anime experience</sub></p>
+
+</td>
+
+</tr>
 </table>
+
 </div>
-
-
