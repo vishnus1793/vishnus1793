@@ -122,7 +122,6 @@ Grinding code, solving problems, and building cool stuff!
 <tr>
 
 <!-- 🎧 LEFT SIDE: SPOTIFY -->
-<td align="center" width="50%">
 
 <h3>🎧 Now Playing</h3>
 
@@ -141,27 +140,12 @@ Grinding code, solving problems, and building cool stuff!
 
 <p><sub>Live Spotify • Works Offline</sub></p>
 
-</td>
 
-<!-- 🎴 RIGHT SIDE: ANIME -->
-<td align="center" width="50%">
-
-<h3>🎴 Anime World</h3>
-
-<a href="https://animesite-zeta.vercel.app/">
-  <img 
-    src="https://raw.githubusercontent.com/vishnus1793/Wallpapers/main/SoloLeveling%20Game.gif"
-    width="90%"
-    style="border-radius: 10px;" />
-</a>
 
 <br><br>
 
-<a href="https://animesite-zeta.vercel.app/">
-  <img src="https://img.shields.io/badge/Explore%20Anime%20World-ff69b4?style=for-the-badge"/>
-</a>
 
-<p><sub>My curated anime experience</sub></p>
+
 
 </td>
 
